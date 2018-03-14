@@ -1,2 +1,6 @@
 
-//how do I print the DOM???console.log(document);var all = document.getElementsByTagName("*");for (var i=0, max=all.length; i < max; i++) {// Do something with the element hereconsole.log(i);}
+
+//how do I print the DOM???
+console.log(all);
+var all = document.getElementsByTagName("*");for (var i=0, max=all.length; i < max; i++) 
+{// Do something with the element hereconsole.log(i);}
